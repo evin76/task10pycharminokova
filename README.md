@@ -22,3 +22,5 @@
 #Задание 13
 ![image](https://user-images.githubusercontent.com/75745464/142763629-4bf888ca-1949-4397-8b25-f5bb90f9f83e.png)
 
+#Задание 14
+![image](https://user-images.githubusercontent.com/75745464/142766327-a20a6e8a-de32-44c1-ba51-c2000b6c602d.png)
