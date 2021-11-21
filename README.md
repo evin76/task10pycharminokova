@@ -18,6 +18,9 @@
 Изображение после преобразования:
 ![image](https://user-images.githubusercontent.com/75745464/142763414-ab3218a0-18a9-4e63-8c9a-47106a4376d7.png)
 
+#Задание 11
+![image](https://user-images.githubusercontent.com/75745464/142766395-76cc53cd-4608-47ca-b100-a58c74637d10.png)
+
 
 #Задание 13
 ![image](https://user-images.githubusercontent.com/75745464/142763629-4bf888ca-1949-4397-8b25-f5bb90f9f83e.png)
