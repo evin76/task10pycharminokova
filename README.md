@@ -17,3 +17,8 @@
 ![image](https://user-images.githubusercontent.com/75745464/142763396-2b96c13f-765b-4807-93df-272b236c8a83.png)
 Изображение после преобразования:
 ![image](https://user-images.githubusercontent.com/75745464/142763414-ab3218a0-18a9-4e63-8c9a-47106a4376d7.png)
+
+
+#Задание 13
+![image](https://user-images.githubusercontent.com/75745464/142763629-4bf888ca-1949-4397-8b25-f5bb90f9f83e.png)
+
